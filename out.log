@@ -3834,3 +3834,454 @@ java.lang.AssertionError: Unexpected content storage modification
 2018-07-04 19:25:39 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
 2018-07-04 19:25:39 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
 2018-07-04 19:25:39 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-07-04 19:40:19 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 19:40:19 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 19:40:19 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 19:40:19 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 19:40:19 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:40:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:41:31 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:41:31 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 19:41:31 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 19:41:31 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 19:41:31 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:41:31 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 19:41:32 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 19:41:32 WARN  TaskCompleted.run(66) - Задача "Ипподром(1)" уже решена
+2018-07-04 19:41:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:42:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:43:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:44:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:45:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:46:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:47:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:48:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:49:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:50:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:51:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:52:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:53:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:54:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:55:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:56:14 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:56:14 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 19:56:14 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 19:56:14 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 19:56:15 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 19:56:19 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 19:56:22 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 19:56:22 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 19:56:22 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 19:56:22 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 19:56:22 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:56:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:57:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:57:41 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:57:41 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 19:57:41 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 19:57:41 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 19:57:42 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 19:57:42 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:57:42 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 19:57:42 WARN  TaskCompleted.run(66) - Задача "Ипподром(2)" уже решена
+2018-07-04 19:57:55 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:57:55 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 19:57:56 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 19:57:56 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 19:57:56 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 19:57:59 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 19:58:00 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 19:58:00 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 19:58:00 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 19:58:00 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 19:58:00 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:58:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 19:59:08 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:59:08 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 19:59:08 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 19:59:08 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 19:59:08 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 19:59:08 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:59:09 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 19:59:09 WARN  TaskCompleted.run(66) - Задача "Ипподром(3)" уже решена
+2018-07-04 19:59:18 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:59:18 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 19:59:18 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 19:59:18 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 19:59:18 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 19:59:22 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 19:59:24 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 19:59:24 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 19:59:24 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 19:59:24 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 19:59:24 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 19:59:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:00:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:01:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:02:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:03:36 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:03:36 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:03:37 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:03:37 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:03:37 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:03:37 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:03:38 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:03:38 WARN  TaskCompleted.run(66) - Задача "Ипподром(4)" уже решена
+2018-07-04 20:03:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:03:41 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:03:41 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:03:41 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:03:41 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:03:42 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:03:46 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:03:47 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:03:47 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:03:48 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:03:48 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:03:48 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:03:48 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:03:51 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:03:51 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:03:51 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:03:51 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:03:51 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:04:27 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:04:27 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:04:27 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:04:27 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:04:27 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:04:27 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:04:28 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:04:28 WARN  TaskCompleted.run(66) - Задача "Ипподром(5)" уже решена
+2018-07-04 20:04:30 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:04:30 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:04:30 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:04:30 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:04:31 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:04:34 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:04:36 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:04:36 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:04:36 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:04:36 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:04:36 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:04:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:05:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:06:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:07:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:08:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:09:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:10:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:11:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:11:59 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:11:59 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:11:59 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:11:59 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:11:59 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:11:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:12:00 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:12:00 WARN  TaskCompleted.run(66) - Задача "Ипподром(6)" уже решена
+2018-07-04 20:12:03 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:12:03 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:12:03 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:12:03 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:12:03 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:12:10 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:12:11 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:12:11 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:12:12 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:12:12 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:12:12 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:12:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:13:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:14:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:15:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:16:01 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:16:01 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:16:01 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:16:01 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:16:01 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:16:01 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:16:01 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:16:02 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:16:02 WARN  TaskCompleted.run(66) - Задача "Ипподром(7)" уже решена
+2018-07-04 20:16:05 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:16:05 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:16:05 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:16:05 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:16:05 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:16:12 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:16:14 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:16:14 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:16:14 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:16:14 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:16:14 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:16:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:17:02 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:17:02 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:17:02 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:17:02 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:17:02 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:17:02 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:17:03 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:17:03 WARN  TaskCompleted.run(66) - Задача "Ипподром(8)" уже решена
+2018-07-04 20:17:05 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:17:05 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:17:05 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:17:05 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:17:06 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:17:13 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:17:14 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:17:14 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:17:14 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:17:14 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:17:14 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:17:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:18:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:19:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:20:39 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:21:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:22:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:23:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:24:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:25:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:26:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:27:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:28:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:28:46 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:28:46 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:28:46 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:28:46 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:28:46 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:28:46 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:28:47 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:28:47 WARN  TaskCompleted.run(66) - Задача "Ипподром(9)" уже решена
+2018-07-04 20:28:49 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:28:49 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:28:49 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:28:49 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:28:50 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:28:57 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:28:59 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:28:59 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:28:59 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:28:59 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:28:59 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:29:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:29:50 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:29:50 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:29:50 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:29:50 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:29:50 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:29:50 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:29:50 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:29:51 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:29:51 WARN  TaskCompleted.run(66) - Задача "Ипподром(10)" уже решена
+2018-07-04 20:29:54 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:29:54 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:29:54 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:29:54 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:29:54 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:30:03 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:30:05 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:30:05 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:30:05 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:30:05 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:30:05 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:30:32 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:30:32 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:30:32 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:30:32 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:30:32 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:30:32 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:30:33 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:30:33 WARN  TaskCompleted.run(66) - Задача "Ипподром(11)" уже решена
+2018-07-04 20:30:35 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:30:35 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:30:35 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:30:35 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:30:36 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:30:40 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:30:41 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:30:41 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:30:41 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:30:41 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:30:42 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:30:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:31:38 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:31:38 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:31:38 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:31:38 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:31:38 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:31:38 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:31:39 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:31:39 WARN  TaskCompleted.run(66) - Задача "Ипподром(12)" уже решена
+2018-07-04 20:31:41 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:31:41 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:31:41 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:31:41 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:31:41 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:31:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:31:45 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:31:46 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:31:46 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:31:46 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:31:46 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:31:46 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:32:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:32:50 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:32:50 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:32:50 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:32:50 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:32:50 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:32:50 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:32:50 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:32:50 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:32:51 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:32:51 WARN  TaskCompleted.run(66) - Задача "Ипподром(13)" уже решена
+2018-07-04 20:32:53 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:32:53 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:32:53 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:32:53 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:32:53 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:32:57 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:32:59 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:32:59 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:32:59 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:32:59 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:32:59 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:33:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:34:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:35:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:36:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:37:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:38:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:39:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:40:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:41:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:42:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:42:44 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:42:45 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:42:45 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:42:45 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:42:45 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:42:45 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:42:46 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:42:46 WARN  TaskCompleted.run(66) - Задача "Ипподром(14)" уже решена
+2018-07-04 20:42:48 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:42:48 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:42:48 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:42:48 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:42:48 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 20:42:48 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:42:49 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 20:42:49 WARN  TaskCompleted.run(66) - Задача "Ипподром(14)" уже решена
+2018-07-04 20:42:51 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:42:51 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:42:51 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:42:51 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:42:51 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:42:55 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:42:56 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:42:56 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:42:56 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:42:56 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:42:57 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:43:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:44:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:45:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:46:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:47:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:48:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:49:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:49:46 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:49:46 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 20:49:46 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 20:49:46 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 20:49:46 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 20:49:49 INFO  ApacheHttpClient.getTaskTemplateInfo(338) - responseCode = 200
+2018-07-04 20:49:50 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:49:50 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:49:50 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-04 20:49:50 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-04 20:49:50 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 20:50:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:51:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:52:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:53:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:54:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:55:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:56:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:57:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:58:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 20:59:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:00:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:01:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:02:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:03:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:04:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:05:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:06:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:07:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:08:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:09:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:10:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:11:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:12:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:13:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:14:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:15:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:16:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:17:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:18:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:19:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:20:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:21:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:22:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:23:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:24:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:25:43 INFO  ApacheHttpClient.sendEvent(467) - responseCode = 200
+2018-07-04 21:25:48 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 21:25:48 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 21:25:48 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 21:25:48 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 21:25:49 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 21:25:49 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:49 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-07-04 21:25:49 WARN  TaskCompleted.run(66) - Задача "Ипподром(16)" уже решена
+2018-07-04 21:25:53 INFO  ApacheHttpClient.getWebResourceAsStream(434) - responseCode = 200
+2018-07-04 21:25:53 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-04 21:25:53 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-04 21:25:53 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-04 21:25:54 INFO  ApacheHttpClient.getFilteredTasks(321) - responseCode = 200
+2018-07-04 21:25:58 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:25:59 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:26:00 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:26:00 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:26:00 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-04 21:26:00 INFO  ApacheHttpClient.getTask(419) - responseCode = 200
+2018-07-05 20:49:13 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-07-05 20:49:13 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.19 ----------
+
+2018-07-05 20:49:13 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-07-05 20:49:13 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-07-05 20:49:13 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-07-05 20:49:13 INFO  ApacheHttpClient.testConnection(195) - result = true
+2018-07-05 20:49:13 INFO  ApacheHttpClient.login(225) - Ожидание ответа сервера.
+2018-07-05 20:49:13 INFO  ApacheHttpClient.login(229) - responseCode = 200
+2018-07-05 20:49:13 INFO  ApacheHttpClient.login(260) - JSESSIONID OK
+2018-07-05 20:49:13 INFO  ApacheHttpClient.refreshUserInfo(288) - responseCode = 200
+2018-07-05 20:49:13 INFO  ApacheHttpClient.refreshUserInfo(294) - Информация о пользователе получена.
+2018-07-05 20:49:13 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-07-05 20:49:13 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
